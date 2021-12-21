@@ -1,0 +1,60 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+  }
+  .carousel {
+    margin-bottom: 4rem;
+  }
+  .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+    text-align: left!important;
+  }
+  .carousel-item {
+    height: 32rem;
+    background-color: lightslategray;
+    text-align: center;
+  }
+  carousel-item#p
+  {
+      text-align: left;
+  }
+  carousel-item#h1
+  {
+      text-align: left;
+  }
+  .carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 32rem;
+  }
+ .featurette
+ {
+     padding: 80px;
+ }
+  
+ .featurette-div
+ {
+     padding-bottom: 5px;
+ }
+  .featurette-divider {
+   
+  }
+  .featurette-heading {
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -.05rem;
+  }
+    .carousel-caption p {
+      margin-bottom: 1.25rem;
+      font-size: 1.25rem;
+      line-height: 1.4;
+      text-align: left;
+    }
+  
+    .featurette-heading {
+      font-size: 50px;
+    }
